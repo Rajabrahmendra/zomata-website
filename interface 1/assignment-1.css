@@ -1,0 +1,225 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+header{
+    background-color:#CE0505;
+    position: relative;
+    height: 80px;
+}
+.logo-span{
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px 15px;
+    position: absolute;
+    left: 80px;
+    top: 13px;
+}
+.logo{
+    color: #CE0505;
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-signup{
+    position: absolute;
+    right: 80px;
+    word-spacing: 10px;
+    top: 25px;
+}
+.login{
+   color: white;
+   text-decoration: none; 
+}
+.create{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white; 
+    padding: 10px 10px;
+    word-spacing: normal;
+    border-radius: 5px;
+}
+section{
+    position: relative;
+    padding: 20px 50px;
+
+}
+.title-text{
+   color: #192F60;
+   font-weight: 600;
+   font-size: 36px;
+   margin-bottom: 20px;
+}
+.filters-article{
+    width: 260px;
+    left: 130px;
+    height: 682px;
+    box-shadow: 0px 3px 6px #00000029; 
+    background-color: white;
+    color: #192F60;
+    text-align: center;   
+}
+.result1-article{
+    width: 794px;
+    height: 291px;
+    box-shadow: 0px 3px 6px #00000029;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left: 350px;      
+}
+.point1_data{
+    position: relative;
+}
+.image{
+    top: 220px;
+    left: px;
+    width: 120px;
+    height: 120px;
+    border-radius: 57px;
+    padding: 16px;
+    text-align: left;
+}
+.image1_point{
+    text-align: left;
+   
+}
+.cakery_text{
+    color: #192F60;
+    margin-left: 25%;
+    position: absolute;
+    top: -10%;
+    font-size: 35px;    
+}
+.fort1_text{
+    margin-left: 25%;
+    position: absolute;
+    color: #192F60;
+    top:35%;
+}
+.costfor_text{
+    position: absolute;
+    color: #636F88;
+    left: 3%;
+    opacity: 0.7;
+}
+.rupees{
+    position: absolute;
+    color: #192F60;
+    left: 25%;
+}
+.result2-article{
+    width: 794px;
+    height: 291px;
+    box-shadow: 0px 3px 6px #00000029;
+    background-color: white;
+    position: absolute;
+    top: 430px;
+    left: 350px;
+}
+.point2_data{
+    position: relative;
+}
+.image1_point{
+    text-align: left;
+}
+.bake_text{
+    color: #192F60;
+    margin-left: 25%;
+    position: absolute;
+    top: -10%;
+    font-size: 35px;    
+}
+.fort2_text{
+    margin-left: 25%;
+    position: absolute;
+    color: #192F60;
+    top:35%;
+}
+.pagination_box {
+    display: inline-block;
+    background-color:#8C96AB;
+    color: white;
+    width: 18px;
+    border-radius: 20%;
+    text-align: center;
+}
+.filter_class{
+  color: #192F60;
+  margin-right: 60%;
+  margin-top: 10%; 
+}
+.select_location{
+    color: #192F60;
+    margin-right: 31%;
+    opacity: 0.9;
+}
+.select_area{
+    color: #192F60;
+    margin-right: 10%;
+}
+.cuisine_text{
+    color: #192F60;
+    margin-right: 31%;
+    opacity: 0.8;
+}
+.checkbox_info{
+    accent-color:#192F60 ;
+    margin-right: 40%;
+    opacity: 0.7;
+}
+.checkbox_chinese{
+    margin-right: 20%;
+}
+.checkbox_fastfood{
+    margin-right: 12%;
+}
+.checkbox_streetfood{
+    margin-right: 5%;
+}
+.cost_data{
+    color: #192F60;
+    margin-right: 35%;
+    opacity: 0.6;
+}
+.radio_data{
+    accent-color:#192F60 ;
+    margin-right: 36%;
+    opacity: 0.7;
+}
+.radio_1000{
+    margin-right: 9%;
+}
+.radio_1500{
+    margin-right: 4%;   
+}
+.radio_2000{
+    margin-right: 4%;
+}
+.radio_2001{
+    margin-right: 33%;
+}
+.sort_text{
+    accent-color:#192F60 ;
+    margin-right: 70%;
+    opacity: 1;   
+}
+.radio_sort{
+    accent-color:#192F60 ;
+    margin-right: 30%;
+    opacity: 0.6;
+}
+.pagination{
+    text-align: center
+}
+
+
+    
+    
+    
+    
+
+
+
+

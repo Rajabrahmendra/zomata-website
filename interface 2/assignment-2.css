@@ -1,0 +1,237 @@
+*{
+    box-sizing: border-box;
+    font-family: poppins;
+}
+body{
+    background-color: #FBFBFB;
+}
+.container-fluid{
+    
+    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4F0707), url("../images/wallpaper.png");
+    height: 480px;   
+}
+.login{
+    text-decoration: none;
+    color: #FBFBFB;
+    opacity: 1;
+}
+.createaccount{
+    text-decoration: none;
+    color: #FBFBFB;
+    border: 1px solid white;
+    opacity: 1;
+}
+.logo{
+    color: #EB2929;
+    background-color: #FBFBFB;
+    display: inline;
+    font-size: 70px;
+    font-weight: 600;
+    border-radius: 50%;
+}
+.restaurant-title{
+    color: #FFFFFF;
+    font-size: 39px;
+    border: 2px;
+}
+.locationselector{
+    position: absolute;
+    margin-left: 15%;
+}
+.restaurentselector{
+    margin-left: 10%;
+}
+.searchicon{
+    color: #74819E;
+    position: absolute;
+    margin-top: -2.7%;
+    margin-left: 5.7%;
+}
+.search{
+    color: #192F60;
+    margin-top: 12%;
+    opacity: 1;
+    size: 30px;
+    margin-left: 3%;
+    font: normal normal bold 30px/46px Poppins;
+}
+.discover{
+    color: #74819E;
+    margin-left: 3%;
+}
+.article1{
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 3%;
+}
+.article2{
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 30%;
+    margin-top: -10.9%;
+}
+.article3{
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 57%;
+    margin-top: -10.9%;
+}
+.article4{
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 3%;
+    margin-top: 4%;
+}
+.article5{
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 30%;
+    margin-top: -10.9%;
+}
+.article6{
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 57%;
+    margin-top: -10.9%;
+}
+.imageedit1{
+    left: 113px;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    margin-left: -3%;
+    margin-top: -10.9%;
+}
+.breakfast{
+    color: #192F60;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: -10.9%;
+}
+.para_text1{
+    color: #74819E;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: -8.5%;
+    opacity: 0.7;
+}
+.imageedit2{
+    left: 113px;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    margin-left: 23.5%;
+    margin-top: -10.9%;
+}
+.lunch{
+    color: #192F60;
+    position: absolute;
+    margin-left: 42%;
+    margin-top: -10%;
+}
+.para_text2{
+    color: #74819E;
+    position: absolute;
+    margin-left: 42%;
+    margin-top: -8%;
+    opacity: 0.7;
+}
+.imageedit3{
+    left: 113px;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -10.9%;
+}
+.snacks{
+    color: #192F60;
+    position: absolute;
+    margin-left: 68%;
+    margin-top: -10%;
+}
+.para_text3{
+    color: #74819E;
+    position: absolute;
+    margin-left: 68%;
+    margin-top: -8%;
+    opacity: 0.7;
+}
+.imageedit4{
+    left: 113px;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    margin-left: -3%;
+    margin-top: -10.9%;
+}
+.dinner{
+    color: #192F60;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: -10.9%;
+}
+.para_text4{
+    color: #74819E;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: -8.5%;
+    opacity: 0.7;
+}
+.imageedit5{
+    left: 113px;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    margin-left: 23.5%;
+    margin-top: -10.9%;
+}
+.drinks{
+    color: #192F60;
+    position: absolute;
+    margin-left: 42%;
+    margin-top: -10%;
+}
+.para_text5{
+    color: #74819E;
+    position: absolute;
+    margin-left: 42%;
+    margin-top: -8%;
+    opacity: 0.7;
+}
+.imageedit6{
+    left: 113px;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -10.9%;
+}
+.nightlife{
+    color: #192F60;
+    position: absolute;
+    margin-left: 68%;
+    margin-top: -10%;
+}
+.para_text6{
+    color: #74819E;
+    position: absolute;
+    margin-left: 68%;
+    margin-top: -8%;
+    opacity: 0.7;
+}
+
+
+
